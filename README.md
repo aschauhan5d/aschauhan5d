@@ -71,6 +71,9 @@
   <a href="mailto:aschauhan5d@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+    <a href="https://aschauhan5d.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=Portfolio&logoColor=white" />
+  </a>
 </p>
 
 ---
