@@ -12,7 +12,7 @@
 - Model Deployment (FastAPI, Flask)
 
 ## 🌐 Web Development
-- Backend: **Node.js**, **Express.js** , **Flask**, **FastAPI**
+- Backend: **Node.js**, **Express.js**, **Flask**, **FastAPI**
 - Frontend: **React JS**, **Next JS**
 - Database: **MongoDB**, **MySQL**
 - RESTful API design & authentication
@@ -32,4 +32,5 @@
 ---
 
 ### 📫 Let's connect!
-[LinkedIn](www.linkedin.com/in/aschauhan5d) •  [Email](aschauhan5d@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aschauhan5d)  
+📧 [aschauhan5d@gmail.com](mailto:aschauhan5d@gmail.com)
