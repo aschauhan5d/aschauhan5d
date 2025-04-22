@@ -1,36 +1,73 @@
-# 👋 Hi, I'm Abhishek!
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">MCA (AI/ML) @ UPES | AI Enthusiast | Full-Stack Developer</h3>
 
-🎓 MCA (AI/ML) student at UPES, Dehradun  
-💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Web Development  
-🛠️ Currently building:  
-- 🤖 Deep Learning for Autonomous Vehicles  
-- 💰 Budget Tracker App (MERN Stack and LLM/GENAI)
-
-## 🧠 AI/ML Skills
-- Machine Learning (Regression, Classification, Clustering)
-- Deep Learning with TensorFlow
-- Model Deployment (FastAPI, Flask)
-
-## 🌐 Web Development
-- Backend: **Node.js**, **Express.js**, **Flask**, **FastAPI**
-- Frontend: **React JS**, **Next JS**
-- Database: **MongoDB**, **MySQL**
-- RESTful API design & authentication
-
-## 🚀 Tech Stack
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat&logo=tensorflow)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-
-## 📈 GitHub Stats
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Web+Development;Backend+Engineering+%7C+Data+Science;FastAPI+%7C+MERN+%7C+Next.js+%7C+LLMs" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📫 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aschauhan5d)  
-📧 [aschauhan5d@gmail.com](mailto:aschauhan5d@gmail.com)
+### 🧠 About Me  
+- 🎓 MCA (AI/ML) student at **UPES, Dehradun**  
+- 🚀 Building:  
+  - 🤖 **Autonomous Vehicle Deep Learning System**  
+  - 💰 **Budget Tracker App** using **MERN Stack** & **LLM/GenAI**  
+- 🧪 Exploring LLMs, GenAI, and Computer Vision  
+- 📌 Focused on model deployment, backend dev & smart apps  
+
+---
+
+### ⚙️ Tech Toolbox  
+#### 👨‍💻 Programming & Frameworks  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)  
+![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)  
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+
+#### 📊 Data Science & AI  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)  
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-000?style=flat&logo=scikit-learn)  
+![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)  
+![pandas](https://img.shields.io/badge/-pandas-000?style=flat&logo=pandas)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=plotly)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=flat)
+
+#### 🛢️ Databases  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)  
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+
+#### 🔧 Tools & Others  
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)  
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)  
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)  
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek&show_icons=true&theme=radical" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=abhishek&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aschauhan5d" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aschauhan5d@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhishek&style=flat-square&color=blue" alt="Profile Views" />
+</p>
