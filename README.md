@@ -2,7 +2,7 @@
 <h3 align="center">MCA (AI/ML) @ UPES | AI Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Web+Development;Backend+Engineering+%7C+Data+Science;FastAPI+%7C+MERN+%7C+Next.js+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Artificial+Intelligence+%7C+Machine+Learning;Deep+Learning+%7C+Web+Development;Backend+Engineering+%7C+Data+Science;FastAPI+%7C+MERN+%7C+Next.js+%7C+LLMs" alt="Typing SVG" />
 </p>
 
 ---
