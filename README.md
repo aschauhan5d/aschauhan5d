@@ -4,7 +4,7 @@
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Web Development  
 🛠️ Currently building:  
 - 🤖 Deep Learning for Autonomous Vehicles  
-- 💰 Budget Tracker App (MERN Stack)
+- 💰 Budget Tracker App (MERN Stack and LLM/GENAI)
 
 ## 🧠 AI/ML Skills
 - Machine Learning (Regression, Classification, Clustering)
