@@ -4,7 +4,6 @@
 💡 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Web Development  
 🛠️ Currently building:  
 - 🤖 Deep Learning for Autonomous Vehicles  
-- 📧 Email Classification & PII Masking System  
 - 💰 Budget Tracker App (MERN Stack)
 
 ## 🧠 AI/ML Skills
