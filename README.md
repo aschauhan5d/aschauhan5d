@@ -19,32 +19,39 @@
 
 ### ⚙️ Tech Toolbox  
 #### 👨‍💻 Programming & Frameworks  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)  
-![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)  
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express" />
+  <img src="https://img.shields.io/badge/-Flask-000?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-React-000?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js" />
+</p>
 
 #### 📊 Data Science & AI  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)  
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-000?style=flat&logo=scikit-learn)  
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)  
-![pandas](https://img.shields.io/badge/-pandas-000?style=flat&logo=pandas)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=plotly)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=flat)
+<p align="center">
+  <img src="https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-000?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy" />
+  <img src="https://img.shields.io/badge/-pandas-000?style=flat&logo=pandas" />
+  <img src="https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=plotly" />
+  <img src="https://img.shields.io/badge/-Seaborn-000?style=flat" />
+</p>
 
 #### 🛢️ Databases  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)  
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+<p align="center">
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql" />
+</p>
 
 #### 🔧 Tools & Others  
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)  
-![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)  
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-000?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Postman-000?style=flat&logo=postman" />
+</p>
 
----
 
 ### 📈 GitHub Stats
 
