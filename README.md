@@ -8,10 +8,8 @@
 
 ## 🧠 AI/ML Skills
 - Machine Learning (Regression, Classification, Clustering)
-- Deep Learning with TensorFlow & PyTorch
-- Computer Vision with OpenCV & MediaPipe
-- Model Optimization (Quantization, TFLite)
-- Model Deployment (FastAPI, Flask, TensorFlow Serving)
+- Deep Learning with TensorFlow
+- Model Deployment (FastAPI, Flask)
 
 ## 🌐 Web Development
 - Backend: **Node.js**, **Express.js** , **Flask**, **FastAPI**
