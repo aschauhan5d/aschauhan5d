@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 About Me  
-- 🎓 MCA (AI/ML) student at **UPES, Dehradun**  
+- 🎓 MCA (AI/ML)  **UPES, Dehradun**  
 - 🚀 Building:  
   - 🤖 **Autonomous Vehicle Deep Learning System**  
   - 💰 **Budget Tracker App** using **MERN Stack** & **LLM/GenAI**  
