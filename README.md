@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">Research Scholar (PhD) @ Graphic Era University | MCA (AI/ML) @ UPES | AI Researcher | Full-Stack Developer</h3>
+<h3 align="center">Research Scholar @ Graphic Era University | AI Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&lines=Research+Scholar+(PhD)+%7C+Computer+Vision;Deep+Learning+%7C+Vision+Transformers;Medical+Imaging+%7C+Multimodal+Learning;FastAPI+%7C+MERN+%7C+Next.js+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=650&lines=Research+Scholar+%7C+Computer+Vision;Deep+Learning+%7C+Vision+Transformers;Medical+Imaging+%7C+Multimodal+Learning;+LLMs" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🎓 **Research Scholar (PhD)** — Department of Computer Application, **Graphic Era Deemed to be University, Dehradun**
-- 🎓 **MCA (AI/ML)** — **UPES, Dehradun**
 - 🔬 Researching:
   - 🧬 **3D Volumetric Segmentation** with Vision Transformers for Medical Imaging
   - 🤖 **Adapter Fine-Tuning** (LoRA, VPT, AdaptFormer) for parameter-efficient learning
